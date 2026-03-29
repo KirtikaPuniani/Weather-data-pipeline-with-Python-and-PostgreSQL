@@ -1,1 +1,1 @@
-# Weather-data-pipeline-with-Python-and-PostgreSQL
+# Weather data pipeline with Python and PostgreSQL
