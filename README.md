@@ -6,6 +6,12 @@ The pipeline follows the ETL (Extract → Transform → Load) pattern and showca
 
 **📌 Project Overview**
 
+
+
+
+
+
+
 The pipeline performs the following steps:
 
 1️⃣ Extract
