@@ -36,3 +36,7 @@ The cleaned data is inserted into a PostgreSQL database running inside a Docker 
           │
           ▼
     Structured Weather Dataset
+
+
+
+
