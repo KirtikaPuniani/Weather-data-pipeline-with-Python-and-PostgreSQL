@@ -13,10 +13,10 @@ Weather data is fetched from the free API provided by Open-Meteo.
 
 2️⃣ Transform
 The raw JSON response is processed using Python:
-1. Convert temperature units if needed
-2. Handle missing values
-3. Standardize location and timestamp formats
-4. Structure the data for database storage
+        1. Convert temperature units if needed
+        2. Handle missing values
+        3. Standardize location and timestamp formats
+        4. Structure the data for database storage
 
 3️⃣ Load
 The cleaned data is inserted into a PostgreSQL database running inside a Docker container.
