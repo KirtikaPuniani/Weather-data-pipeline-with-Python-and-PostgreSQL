@@ -35,15 +35,6 @@ The cleaned data is inserted into a PostgreSQL database running inside a Docker 
     PostgreSQL Database (Docker Container)
           │
           ▼
-    Structured Weather Dataset
-
-
-
-
-
-
-
-
-    
+    Structured Weather Dataset    
 
 <img width="1536" height="1024" alt="Weather Pipeline" src="https://github.com/user-attachments/assets/71325e4a-3317-48e7-8cf5-8b633dbd4072" />
